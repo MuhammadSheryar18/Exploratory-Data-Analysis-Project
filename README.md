@@ -5,7 +5,19 @@ This repository contains an Exploratory Data Analysis (EDA) project for the week
 # Project Structure
 
 The following is the structure of the Exploratory Data Analysis (EDA) project:
-\`\`\`├── src │ ├── components │ │ └── Button.js │ └── App.js ├── public │ ├── index.html ├── tests │ ├── App.test.js ├── .gitignore ├── README.md ├── package.json └── webpack.config.js\`\`\`
+\`\`\`├── src
+│   ├── components
+│   │   └── Button.js
+│   └── App.js
+├── public
+│   ├── index.html
+├── tests
+│   ├── App.test.js
+├── .gitignore
+├── README.md
+├── package.json
+└── webpack.config.js
+\`\`\`
 
 
 
