@@ -5,8 +5,8 @@ This repository contains an Exploratory Data Analysis (EDA) project for the week
 # Project Structure
 
 The following is the structure of the Exploratory Data Analysis (EDA) project:
-```Exploratory-Data-Analysis-Project/ │ ├── data/ # Folder for storing raw and processed data ├── notebooks/ # Jupyter Notebooks or Python scripts for EDA ├── images/ # Any images generated (plots, graphs) ├── src/ # Source folder for reusable Python scripts ├── README.md # Project overview and instructions └── requirements.txt # Dependencies required to run the project
-```
+\`\`\`├── src │ ├── components │ │ └── Button.js │ └── App.js ├── public │ ├── index.html ├── tests │ ├── App.test.js ├── .gitignore ├── README.md ├── package.json └── webpack.config.js\`\`\`
+
 
 
 ## Notebooks
